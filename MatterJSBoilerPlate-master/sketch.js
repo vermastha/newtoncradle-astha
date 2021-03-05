@@ -46,6 +46,7 @@ text ("Press arrow keys to see the magic", 300, 500)
   bob3.display();
   bob4.display();
   bob5.display();
+  //added comment
   roof.display();
  chain1.display();
  chain2.display();
